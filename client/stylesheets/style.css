@@ -1,0 +1,25 @@
+
+body {
+    background: pink;
+    color: purple;
+}
+
+#logo{
+    width: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 45%;
+}
+/*
+
+li {
+    display: inline;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 40px;
+    color : #F46534;
+    font-size: 20px;
+}
+*/
